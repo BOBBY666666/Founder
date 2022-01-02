@@ -1,0 +1,170 @@
+hr {
+    width: 98%;
+    text-align:left;
+    margin-left:0;
+    margin-bottom: 40px;
+}
+
+.info1 input { 
+    border: 1px solid #B0B7BD; 
+    height: 30px;
+    border-radius: 5px;
+}
+::placeholder {
+    color: #B0B7BD;
+}
+label {
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+.nodoc {
+    float: left;
+    margin-right: 15px;
+}
+
+.namedoc {
+    width: 37%;
+}
+
+.type {
+    margin-top: 15px;
+}
+.typedoc {
+    text-align: center;
+}
+
+select {
+    border-color: #B0B7BD;
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+}
+select:required:invalid {
+    color: #B0B7BD;
+}
+option[value=""][disabled] {
+    display: none;
+}
+option[value="none"] {
+    color: red;
+}
+option {
+    color: black;
+}
+  
+.datedoc {
+    margin-top: 15px;
+}
+.daydoc {
+    width: 180px;
+    text-align: center;
+}
+
+.monthdoc {
+    margin-left: 10px;
+}
+.selectmonthdoc {
+    text-align: center;
+    width: 150px;
+}
+
+.yeardoc {
+    margin-left: 10px;
+}
+.selectyeardoc {
+    text-align: center;
+    width: 80px;
+}
+
+.timedoc {
+    margin-top: 15px;
+}
+.hourdoc {
+    width: 100px;
+    text-align: center;
+}
+.mindoc {
+    width: 50px;
+    text-align: center;
+}
+
+.filedoc {
+    margin-top: 20px;
+}
+.filedoc input {
+    width: 400px;
+    border: 1px solid #B0B7BD; 
+    height: 30px;
+    border-radius: 5px;
+}
+.file-info {
+    margin-bottom: 15px;
+    font-size: smaller;
+}
+.link-to-upload-image {
+    color: #514BBF;
+    text-decoration: underline;
+}
+
+input[type=file]::file-selector-button {
+    border: 2px solid #514BBF;
+    width: 150px;
+    color: white;
+    padding: .2em .4em;
+    border-radius: .2em;
+    background-color: #514BBF;
+    transition: 1s;
+  }
+  
+  input[type=file]::file-selector-button:hover {
+    background-color: #81ecec;
+    border: 2px solid #00cec9;
+  }
+
+.access {
+    margin-top: 15px;
+}
+.selectaccdoc {
+    text-align: center;
+    width: 250px;
+}
+.selectaccdoc2 {
+    text-align: center;
+    width: 250px;
+    margin-left: 144px;
+}
+
+.pum {
+    margin-top: 50px;
+}
+.cancal {
+    font-family: kanit;
+    font-weight: lighter;
+}
+.cancal:hover{
+    color: white;
+}
+.add{
+    font-family: kanit;
+    font-weight: lighter;
+    margin-left: 53%;
+}
+.update-btn{
+    font-family: kanit;
+    font-weight: lighter;
+    margin-left: 43.5%;
+    background-color: #22b24c;
+    border-color: #22b24c;
+}
+.update-btn:hover {
+    background-color: #1a963f;
+    border-color: #1a963f;
+}
+
+.delete-btn{
+    font-family: kanit;
+    font-weight: lighter;
+    margin-left: 15px;
+}
+

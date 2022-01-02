@@ -1,0 +1,132 @@
+*{
+    font-family: kanit;
+}
+.warn {
+    color: red;
+    margin-top: 15px;
+}
+
+.search {
+    width: 320px;
+}
+
+.content {
+    margin-top: 0.5%;
+    margin-left: 1.5%;
+    width: 97%;
+    height: 100%;
+    position: absolute;
+    padding: 15px;
+}
+.button{
+    float: right;
+    border: 5px solid #514BBF;
+    background-color: #514BBF;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 0 4px 4px #c4c4c4;
+    margin-right: 2.5%;
+}
+.button2{
+    float: right;
+    border: 5px solid #22b24c;
+    background-color: #22b24c;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 0 4px 4px #c4c4c4 ;
+    margin-right: 1.5%;
+}
+.alldoc{
+    clear: both;
+    color: #514BBF;
+    float: left;
+    margin-top: 2.5%;
+}
+.fillter{
+    float: right;
+    margin-right: -4%;
+    margin-top: -4%;
+    width: 100%;
+}
+.month{
+    float: right;
+    margin-right: 5%;
+}
+.year{
+    float: right;
+    margin-right: 1.5%;
+}
+.select{
+    width: 60%;
+    margin-left: 3%
+}
+.select2{
+    width: 84.5%;
+    margin-left: 3%
+}
+
+.edit{
+    margin-right: 13px;
+}
+.button5{
+    float: right;
+    border: 5px solid #E8910D;
+    background-color: #E8910D;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 0 4px 4px #c4c4c4 ;
+    margin-right: 10%;
+    margin-top: 1%;
+}
+.alldoc1{
+    clear: both;
+    float: left;
+    margin-top: 1.9%;
+    font-family: kanit;
+    font-size: 16px;
+    margin-left: 7.5%;
+    font-weight: normal;
+}
+
+.swal2-title {
+    font-family: kanit;
+  }
+
+/*doc-for-lec*/
+.search-box {
+    margin-top: -40px;
+}
+
+.container-info {
+    background-color: #E9F8FF;
+    border-radius: 15px;
+    width: 98%;
+}
+
+.container-info2 {
+    margin-top: -1%;
+}
+
+.text-info {
+    margin-left: 45px;
+}
+.link {
+    margin-left: 10px;
+}
+
+tr,th,td {
+    color: black;
+}
+
+.doc-info {
+    margin-left: 10px;
+}
+
+.LinkToImage {
+    color: #514BBF;
+    text-decoration: underline;
+}
+
+h1 {
+    font-family: kanit;
+}
